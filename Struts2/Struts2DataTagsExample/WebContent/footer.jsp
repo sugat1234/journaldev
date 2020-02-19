@@ -1,1 +1,0 @@
-<strong>Footer Data</strong>
